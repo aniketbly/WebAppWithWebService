@@ -1,0 +1,7 @@
+E:\Aniket Practices\WebAppWithWebService\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Aniket Practices\WebAppWithWebService\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Aniket Practices\WebAppWithWebService\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Aniket Practices\WebAppWithWebService\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+E:\Aniket Practices\WebAppWithWebService\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Aniket Practices\WebAppWithWebService\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Aniket Practices\WebAppWithWebService\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
